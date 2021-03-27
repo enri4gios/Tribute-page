@@ -1,0 +1,109 @@
+#title {
+    font-family: Helvetica;
+    font-size: 30px;
+    box-align: center;
+    color: rgba(250, 150, 70, 0.6);
+    text-align: center;
+    background-image: url("https://origami.me/wp-content/uploads/2016/12/tessellation.jpg")
+
+}
+
+#tribute-info {
+    font-family: Serif;
+    font-size: 25px;
+    color: rgba(250, 150, 70, 0.6)
+
+}
+
+#joisel-image {
+    display: flex;
+}
+
+#img-joisel1 {
+    display: flex;
+    width: 200px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+    position: relative;
+    justify-content: center;
+}
+
+#img-tess1 {
+    width: 200px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+    position: relative;
+}
+
+#img-tess2 {
+    width: 200px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+    position: relative;
+}
+
+#img1 {
+    width: 200px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+#img2 {
+    width: 200px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+
+body {
+    background-color: rgba(20, 74, 110, 0.5);
+    margin: 0% 20% 0% 20%;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgba(25, 60, 70, 0.7);
+    
+
+}
+
+#img-div {
+    margin-top: 50px;
+    border: solid;
+    padding: 10px;
+    display: flex;
+}
+
+#image {
+    width: 100px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+    justify-content: center;
+
+}
+
+#img2 {
+    width: 100px;
+    border-color:  rgba(250, 150, 70, 0.6);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+#figcaption {
+    justify-self: start;
+    margin: 10px
+}
